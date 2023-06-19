@@ -1,6 +1,7 @@
 ### Dicionário
 
 _italico para o cliente_
+
 normal para o integrante da atria
 
 Oi, tudo bem? Me chamo fulano e vi que o senhor está olhando aqui o nosso stand, o senhor já conhece a Atria JR?

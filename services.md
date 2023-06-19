@@ -25,7 +25,7 @@ Pode ser marketplace ou e-commerce normal
 
 ### Sistemas Web
 
-Aplicação que rodam no browser (literalmente sites)
+Aplicação que rodam no browser, sites e sistemas web que podem servir para administração, vendas, e muita coisa, vale perguntar o segmento do cliente pra oferecer o serviço
 
 ### Site Institucional
 
