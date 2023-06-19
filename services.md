@@ -12,7 +12,7 @@ Plano de gerenciamento de resíduos sólidos
 
 # TI
 
-- Criação de Apps Mobile
+### Criação de Apps Mobile
 
 1. Aplicativos multiplataforma
 
